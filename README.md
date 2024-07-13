@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jivan Aryal</h1>
-<h3 align="center">A passionate MERN Stack developer from Nepal</h3>
+<h1 align="center">Namaste 🙏, Sushant Shrestha here!!😀</h1>
+<h3 align="center">A passionate Front-enddeveloper from Nepal</h3>
 
 <p align="center">
   <img align="center" alt="coding" width="400px" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif" />
@@ -13,13 +13,13 @@
 - 🌱 I’m currently learning **Next.js**
 - 👨‍💻 All of my projects are available at [https://jivanaryal.com.np/](https://jivanaryal.com.np/)
 - 💬 Ask me about **ReactJS, Next.js, Node.js, Express.js**
-- 📫 How to reach me **jeevanaryal7947@gmail.com**
+- 📫 How to reach me **sushantshrestha203@gmail.com**
 - ⚡ Fun fact **I am an ambivert.😁**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/jivan-aryal" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jivan-aryal" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/sushant-shrestha-78b85a279/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushant-shrestha" height="30" width="40" />
   </a>
 </p>
 
