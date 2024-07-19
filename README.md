@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [E-commerce project](https://github.com/Sushant203/Ecommerce_next_training)
 
-- 🌱 I’m currently learning **Next.js, shadcn UI, TypeScript**
+- 🌱 I’m currently learning **Next.js, shadcn UI, TypeScript, Prisma ORM, Docker**
 
 - 💬 Ask me about **nothing**
 
