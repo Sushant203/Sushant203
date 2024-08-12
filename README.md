@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sushantshrestha203@gmail.com**
 
-- ⚡ Fun fact **I can make you cry!**
+- ⚡ Fun fact **I am an ambivert.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
