@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sushantshrestha203@gmail.com**
 
-- ⚡ Fun fact **I am an ambivert.**
+- ⚡ Fun fact **I am an interesting person.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
