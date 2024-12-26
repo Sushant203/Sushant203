@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant203" alt="sushant203" /></a> </p>
 
-- 🔭 I’m currently working on [Sajilo Report project](https://github.com/Sushant203/Ecommerce_next_training)
+- 🔭 I’m currently working on [project omnidesk](https://github.com/Sushant203/Ecommerce_next_training)
 
-- 🌱 I’m currently learning **Next.js, shadcn UI, TypeScript, Prisma ORM, Docker**
+- 🌱 I’m currently learning **Next.js, TypeScript,  Docker**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **myself**
 
 - 📫 How to reach me **sushantshrestha203@gmail.com**
 
