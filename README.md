@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sushant Shrestha</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate FullStack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant203&label=Profile%20views&color=0e75b6&style=flat" alt="sushant203" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [project omnidesk](https://github.com/Sushant203/Ecommerce_next_training)
 
-- 🌱 I’m currently learning **Next.js, TypeScript,  Docker**
+- 🌱 I’m currently learning **Nest.js, TypeScript,  TypeORM, Node.js**
 
 - 💬 Ask me about **myself**
 
@@ -27,7 +27,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sushant203&show_icons=true&locale=en&layout=compact" alt="sushant203" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushant203&show_icons=true&locale=en" alt="sushant203" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushant203&" alt="sushant203" /></p>
+
 
