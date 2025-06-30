@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sushant Shrestha</h1>
-<h3 align="center">A passionate FullStack developer </h3>
+<h3 align="center">A passionate Frontend developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sushant203&label=Profile%20views&color=0e75b6&style=flat" alt="sushant203" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant203" alt="sushant203" /></a> </p>
 
-- 🔭 I’m currently working on [project omnidesk](https://github.com/Sushant203/Ecommerce_next_training)
+- 🔭 I’m currently working on [mastering React]
 
-- 🌱 I’m currently learning **Nest.js, TypeScript,  TypeORM, Node.js**
+- 🌱 I’m currently learning **Advanced React.js, TypeScript**
 
 - 💬 Ask me about **myself**
 
