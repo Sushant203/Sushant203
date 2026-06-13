@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sushant Shrestha</h1>
 <h3 align="center">A FullStack Developer </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushant203" alt="sushant203" /></a> </p>
 
-- 🔭 I’m currently working on [GraaphQL]
+
+- 🔭 I’m currently working on [GraphQL]
 
 - 🌱 I’m currently learning **Next js, TypeScript, Nest js**
 
